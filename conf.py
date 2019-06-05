@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'testdoc'
+htmlhelp_basename = 'ardourdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'test.tex', 'test Documentation',
+    (master_doc, 'ardour.tex', 'Ardour Documentation',
      'nicolas', 'manual'),
 ]
 
@@ -139,7 +139,7 @@ latex_engine = 'xelatex'
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'test', 'test Documentation',
+    (master_doc, 'Ardour', 'Ardour Documentation',
      [author], 1)
 ]
 
@@ -150,8 +150,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'test', 'test Documentation',
-     author, 'test', 'One line description of project.',
+    (master_doc, 'Ardour', 'Ardour Documentation',
+     author, 'Ardour', 'One line description of project.',
      'Miscellaneous'),
 ]
 
