@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex ardour.idx"] 1559712542 "ardour.idx" "ardour.ind" "ardour" 1559712675
-  "ardour.idx" 1559712551 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex ardour.idx"] 1559712542 "ardour.idx" "ardour.ind" "ardour" 1559713324
+  "ardour.idx" 1559713316 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "ardour.ind"
   "ardour.ilg"
-["pdflatex"] 1559712550 "ardour.tex" "ardour.pdf" "ardour" 1559712675
+  "ardour.ind"
+["pdflatex"] 1559713315 "ardour.tex" "ardour.pdf" "ardour" 1559713324
   "/dev/null" 1559694429 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1557314373 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -134,11 +134,11 @@
   "add-track-or-bus.png" 1559711009 17333 d4849b0556a7962b26ef0d124b6000fb ""
   "archive-session.png" 1559711009 8332 8426c3a350b9076e32aae6077166ed74 ""
   "ardour-monitoring.png" 1559711009 7650 9b45aebfb53e02c1824985c5be4d6041 ""
-  "ardour.aux" 1559712558 315485 f06919dc647e6e82e6b6b10f8cd9b850 ""
+  "ardour.aux" 1559713323 315485 f06919dc647e6e82e6b6b10f8cd9b850 ""
   "ardour.ind" 1559712542 0 d41d8cd98f00b204e9800998ecf8427e "makeindex ardour.idx"
-  "ardour.out" 1559712558 107996 dc963a7d7bcb4f15873aa6b4e5ad471e ""
-  "ardour.tex" 1559712416 1414930 8d452ce58688b604beda03b2dce7b355 ""
-  "ardour.toc" 1559712558 90547 4db0c9a7e590d6d16414de9784215754 ""
+  "ardour.out" 1559713323 107996 dc963a7d7bcb4f15873aa6b4e5ad471e ""
+  "ardour.tex" 1559713300 1414930 2351e1af1a0477921060985a144e2e83 ""
+  "ardour.toc" 1559713323 90547 4db0c9a7e590d6d16414de9784215754 ""
   "automation-curve1.png" 1559711009 6607 65a5ebd5657bdc546e1b86417899562a ""
   "automation-lane1.png" 1559711009 8915 e54aba4772abd18d0bec8cddb56c0495 ""
   "automation-menu1.png" 1559711009 51884 69324db9417cac2148e2f614aa2f4744 ""
@@ -237,7 +237,7 @@
   "set_video_track.png" 1559711009 29800 c5e5ff3146573ff060d026320e068c45 ""
   "solo-mute.png" 1559711009 20813 dbb2976879ee19115f28dcbe4dc8a091 ""
   "sphinx.sty" 1552204022 76220 63a32157b97240a297c69d4d077e82ab ""
-  "sphinxhighlight.sty" 1559712664 8137 38a433148fcb7611515a989ff1750dd5 ""
+  "sphinxhighlight.sty" 1559713305 8137 38a433148fcb7611515a989ff1750dd5 ""
   "sphinxmanual.cls" 1552204022 3622 686a4f202ad31ad9dfe0d7d6ebdb7066 ""
   "sphinxmulticell.sty" 1552140457 14618 0defbdc8536ad2e67f1eac6a1431bc55 ""
   "status-bar.png" 1559711009 2559 58a59a813ade65e5b0aa0891e5aa33fd ""
@@ -287,6 +287,6 @@
   "ardour.pdf"
   "ardour.idx"
   "ardour.out"
+  "ardour.aux"
   "ardour.log"
   "ardour.toc"
-  "ardour.aux"
