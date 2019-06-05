@@ -18,3 +18,4 @@ help:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	cp -r $(BUILDDIR)/html/* ./docs
+	cp $(BUILDDIR)/latex/ardour.pdf ./docs
